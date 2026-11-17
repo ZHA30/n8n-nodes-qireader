@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-qireader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Manage QiReader feeds and articles in n8n",
   "license": "MIT",
   "author": {

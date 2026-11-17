@@ -8,6 +8,12 @@ An n8n community node for managing QiReader articles, subscriptions, and reading
 > [!WARNING]
 > The node uses QiReader's undocumented web API, which may change without notice.
 
+## Install
+
+```sh
+npm i n8n-nodes-qireader
+```
+
 ## Features
 
 The QiReader node provides email and password or Cookie authentication and supports articles, subscriptions, folders, tags, feeds, preferences, and OPML.
